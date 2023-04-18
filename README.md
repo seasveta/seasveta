@@ -1,6 +1,6 @@
 ![Header](https://github.com/seasveta/seasveta/blob/main/assets/Frame%201600x400.png)
 
-About me
+## I'm a beginner QA-engineer
 
 My CV
 
