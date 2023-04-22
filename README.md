@@ -1,6 +1,8 @@
 ![Header](https://github.com/seasveta/seasveta/blob/main/assets/Frame%201600x400.png)
 
 ## I'm a beginner QA-engineer
+Hi! This is my first repository which I created myself. I'm looking for a job at the moment. So, you can find links below to my testing documentation. It also contains links to bug-reports.
+
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1K4lJ8nDP6AGoUpnRE3JAQO0Oi_mn15d9/view?usp=share_link)
