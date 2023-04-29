@@ -5,7 +5,7 @@ Hi! This is my first repository which I created myself. I'm looking for a job at
 
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1K4lJ8nDP6AGoUpnRE3JAQO0Oi_mn15d9/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/1wLpnbme5t7pYPjrln4AvCLqHwpcZh74J/view?usp=sharing)
 
 ### Tools and Skills
 ![Postman](https://img.shields.io/badge/-Postman-012C44?style=for-the-badge&logo=postman)
